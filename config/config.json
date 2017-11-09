@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "DB_USERNAME",
-    "password": "DB_PASSWORD",
-    "database": "APP_development",
+    "username": "postgres",
+    "password": "ctp2017",
+    "database": "volunteer_development",
     "host": "127.0.0.1",
     "dialect": "postgresql"
   },
   "test": {
-    "username": "DB_USERNAME",
-    "password": "DB_PASSWORD",
-    "database": "APP_test",
+    "username": "postgres",
+    "password": "ctp2017",
+    "database": "volunteer_test",
     "host": "127.0.0.1",
     "dialect": "postgresql"
   },
   "production": {
-    "username": "DB_USERNAME",
-    "password": "DB_PASSWORD",
-    "database": "APP_production",
+    "username": "postgres",
+    "password": "ctp2017",
+    "database": "volunteer_production",
     "host": "127.0.0.1",
     "dialect": "postgresql"
   }
